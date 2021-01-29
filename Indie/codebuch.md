@@ -2,7 +2,7 @@
 Codebuch Stand 2021-29-01   
 erstellt von Gruppe Indie (ss502@hdm-stuttgart.de)
 
-**Titel des Netzwerks**
+**Titel des Netzwerks:**
 Kollaborationen Indie
 
 ## Inhalt
