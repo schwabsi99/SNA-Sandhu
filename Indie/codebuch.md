@@ -11,7 +11,7 @@ Kollaborationen Indie
 - Codebuch.rm (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
-Wir haben den Datensatz durch Internetrecherche erfasst.
+
 Es werden Kollaborationen vom 01.01.2015 bis 31.12.2020 erfasst.
 
 Das Netzwerk ist ein *ungerichtetes one-mode Akteursnetzwerk*.
