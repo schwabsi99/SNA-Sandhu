@@ -29,6 +29,8 @@ Beziehungsstärke
 2 = gemeinsames Musiklabel
 1 = gemeinsam auf der Bühne gestanden (Support/Vorband)
 
+**year**
+Jahreszahl der Kooperation als YYYY
 
 # NODE-Attribute  
   
