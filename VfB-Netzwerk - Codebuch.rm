@@ -1,0 +1,62 @@
+# Datensatz Mitglieder in VfB-Gremien #
+Codebuch Stand 2021-18-02   
+erstellt von Silas Schwab (ss502@hdm-stuttgart.de)
+
+**Titel des Netzwerks:**
+Mitglieder in VfB-Gremien
+
+## Inhalt
+- VfB-Netzwerk - Edgelist.csv (Edgelist)
+- VfB-Netzwerk - Nodelist.csv (Nodelist)
+- VfB-Netzwerk - Codebuch.rm (Codierung der Datensätze)
+
+## Ursprung und Datenerhebung
+
+Es werden alle aktiven Mitgliedschaften der Person im Aufsichtsrat oder Vorstand der VfB Stuttgart 1893 AG zum Stand 11.02. erfasst.
+Hierzu zählen politische Parteien, Unternehmen, Verbände, Vereine und weitere Organisationen.
+Es wird davon ausgegangen, dass alle Personen auch Mitglieder des VfB Stuttgart 1893 e.V. sind. Zwar wird das auf der Homepage bei den Personen unterschiedlich dargestellt, bei einigen Personen ohne angegebene Mitgliedschaft liegt aber in der Tat eine Mitgliedschaft vor (z.B. Claus Vogt).
+
+
+Das Netzwerk ist ein *gerichtetes two-mode Akteursnetzwerk*.
+
+# EDGE-Attribute
+
+**id**  
+(eindeutige Codierung des Knoten)   
+codiert nach den Initialen der Personen oder zwei bis drei Buchstaben aus dem Organisationsnamen, jede ID entspricht einer Person oder Organisation
+
+**from**  
+id der entsprechenden Person
+
+**to**
+id der Organisation, Firma etc.
+
+# NODE-Attribute  
+  
+**id**  
+Identische ID wie aus der edgelist zur Identifikation der Knoten
+
+**name**
+Ausgeschriebener Name der Person oder Organisation etc.
+
+**type**
+0 = Person
+1 = Organisation 
+
+**age**
+Alter der Person (natürliche Zahlen)
+
+**committee**
+V = Vorstand
+A = Aufsichtsrat
+
+**representation**
+Funktion innerhalb der VfB-Gremien
+
+**position**
+Vorsitz
+Mitglied
+Stellvertreter
+
+##
+
