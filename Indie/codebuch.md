@@ -23,7 +23,7 @@ Das Netzwerk ist ein *ungerichtetes one-mode Akteursnetzwerk*.
 codiert nach den ersten vier Buchstaben der Künstler_innen und Bands, jede ID entspricht einer Künster_in oder Band
 
 **weight**  
-Beziehungsstärke 
+Beziehungsstärke   
 4 = Feature (Gemeinsamer Song)  
 3 = Gemeinsam auf Tour / gemeinsame Auftritte  
 2 = gemeinsames Musiklabel  
