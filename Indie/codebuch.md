@@ -29,7 +29,7 @@ Beziehungsstärke
 2 = gemeinsames Musiklabel  
 1 = Auf dem selben Festival  
 
-**year**
+**year**  
 Jahreszahl der Kooperation als YYYY
 
 # NODE-Attribute  
