@@ -47,10 +47,10 @@ Anzahl der Bandmitglieder
 Aktuelles und frühere Musiklabel der Band oder der Künster_in
 
 **Instagram-Follower**
-Anzahl der Instagram-Follower_innen zum Stichtag 31.01.2021
+Anzahl der Instagram-Follower_innen zum Stichtag 07.03.2021 in Tausenden
 
 **Hörer auf Spotify**
-Monatliche Hörer_innen auf Spotify zum Stichtag 31.01.2021
+Monatliche Hörer_innen auf Spotify zum Stichtag 07.03.2021 in Tausenden
 
 ##
 
