@@ -37,19 +37,19 @@ Jahreszahl der Kooperation als YYYY
 **id**  
 Identische ID wie aus der edgelist zur Identifikation der Knoten
 
-**Name**
+**Name**  
 Name der Band
 
-**Anzahl Personen**
+**Anzahl Personen**  
 Anzahl der Bandmitglieder
 
-**Musiklabel**
+**Musiklabel**  
 Aktuelles und frühere Musiklabel der Band oder der Künster_in
 
-**Instagram-Follower**
+**Instagram-Follower**  
 Anzahl der Instagram-Follower_innen zum Stichtag 07.03.2021 in Tausenden
 
-**Hörer auf Spotify**
+**Hörer auf Spotify**  
 Monatliche Hörer_innen auf Spotify zum Stichtag 07.03.2021 in Tausenden
 
 ##
