@@ -24,10 +24,10 @@ codiert nach den ersten vier Buchstaben der Künstler_innen und Bands, jede ID e
 
 **weight**  
 Beziehungsstärke 
-4 = Feature (Gemeinsamer Song)
-3 = Gemeinsam auf Tour / gemeinsame Auftritte
-2 = gemeinsames Musiklabel
-1 = Auf dem selben Festival
+4 = Feature (Gemeinsamer Song)  
+3 = Gemeinsam auf Tour / gemeinsame Auftritte  
+2 = gemeinsames Musiklabel  
+1 = Auf dem selben Festival  
 
 **year**
 Jahreszahl der Kooperation als YYYY
